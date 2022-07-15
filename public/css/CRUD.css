@@ -1,0 +1,13 @@
+.tambah {
+    text-decoration: none;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(112, 217, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    white-space: nowrap;
+}
